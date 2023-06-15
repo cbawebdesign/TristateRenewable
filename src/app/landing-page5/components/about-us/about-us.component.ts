@@ -8,8 +8,8 @@ export class AboutUsComponent implements OnInit {
 
   List : any ={
     title:"WHAT WE DO",
-    subtitle : "High End Hospitality Experts",
-    desc : "Become a Restaurant Partner and find qualified On Demand Hospitality Professionals in your city."
+    subtitle : "A New Day for Solar",
+    desc : "Find out how you can save thousands of dollars on your annual electric bill at no upfront costs."
   };
 
 
